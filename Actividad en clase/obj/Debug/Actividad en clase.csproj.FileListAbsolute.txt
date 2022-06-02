@@ -1,0 +1,12 @@
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.exe.config
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.exe
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\bin\Debug\Actividad en clase.pdb
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.AssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad_en_clase.Form1.resources
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad_en_clase.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.GenerateResource.cache
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.exe
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad en clase.pdb
+C:\Users\Estudiante.SALA235-PC19\source\repos\Actividad en clase\Actividad en clase\obj\Debug\Actividad_en_clase.FormularioPaciente.resources
